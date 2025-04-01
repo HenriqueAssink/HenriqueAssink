@@ -1,4 +1,4 @@
-## ##  Sou o Henrique Assink 🐜
+## Sou o Henrique Assink 🐜
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelyNunes&layout=donut&theme=dark)](https://github.com/IsabelyNunes/github-readme-stats)
 <!--
